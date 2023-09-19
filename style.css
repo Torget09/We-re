@@ -620,6 +620,7 @@ span, a, label {
         margin-bottom: 20px;
         display: inline-flex;
         justify-content: center;
+        margin: 10px auto;
     } 
     .btn {
         width: 100%;
@@ -669,6 +670,7 @@ span, a, label {
         margin-bottom: 20px;
         display: inline-flex;
         justify-content: center;
+        margin: 10px auto;
     } 
     .btn {
         width: 100%;
@@ -716,6 +718,7 @@ span, a, label {
         margin-bottom: 20px;
         display: inline-flex;
         justify-content: center;
+        margin: 10px auto;
     } 
     .btn {
         width: 100%;
@@ -771,6 +774,7 @@ span, a, label {
         margin-bottom: 20px;
         display: inline-flex;
         justify-content: center;
+        margin: 10px auto;
     } 
     .btn {
         width: 100%;
@@ -810,4 +814,5 @@ span, a, label {
         width: 100%;
         text-align: center;
     }
+
 }
